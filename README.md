@@ -1,2 +1,0 @@
-# EZW
-Assignment
